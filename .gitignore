@@ -5,8 +5,6 @@ requirements.txt
 index.html
 overrides/
 CLAUDE.md
-README.md
-LICENSE.md
 
 # Python virtual environment
 .venv/
